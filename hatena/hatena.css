@@ -988,8 +988,8 @@ a.breadcrumb-child-link:before {
 	margin: 0 0 10px;
 	padding: 20px;
 	white-space: pre;
-	background-color: #1f3d54;
-	color: #eee;
+	background-color: #f7f7f7;
+	color: #333;
 }
 .entry-content pre > code {
 	margin: 0;
