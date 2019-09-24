@@ -1,6 +1,4 @@
-# ttk1.net
-
-welcome to my page!
+Welcome to my page!
 
 ## blog
 
