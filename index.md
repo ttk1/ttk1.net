@@ -1,5 +1,5 @@
 Welcome to my page!
 
-## blog
+# blog
 
-- https://blog.ttk1.net
+- [https://blog.ttk1.net](https://blog.ttk1.net)
